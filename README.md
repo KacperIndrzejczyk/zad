@@ -9,7 +9,7 @@
 <img src="2.jpg" height="340" width="510">
 <style="float: right">
 <img src="3.jpg" height="340" width="510">
-</style>
+</  style>
 </br>
 
 <b><h2>Fiat 126p – samochód osobowy klasy aut najmniejszych, konstrukcji włoskiego producenta Fiat, produkowany w latach 1972–2000. Produkowany był przez Fiata oraz na licencji przez polską Fabrykę Samochodów Małolitrażowych (od 1992 część koncernu Fiat jako Fiat Auto Poland) jako Polski Fiat 126p (we Włoszech do 1980, w Polsce w okresie od 6 czerwca 1973 do 22 września 2000).</h2></b>
