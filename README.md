@@ -1,4 +1,3 @@
-# zad
 <!DOCTYPE>
 <html>
 </head>
@@ -17,10 +16,10 @@
 
 
 
-	<ol type="1">
-	<li>Fiat 126/126p został wyprodukowany łącznie w 4 671 586 egzemplarzach z czego aż 3 352 912 sztuk powstało w polskich zakładach w Tychach i Bielsku-Białej. Fiat 126p stał się samochodem, który zmotoryzował Polaków.</li> 
-	<br>
-	</ul>
+<ol type="1">
+<li>Fiat 126/126p został wyprodukowany łącznie w 4 671 586 egzemplarzach z czego aż 3 352 912 sztuk powstało w polskich zakładach w Tychach i Bielsku-Białej. Fiat 126p stał się samochodem, który zmotoryzował Polaków.</li> 
+<br>
+</ul>
 <li>Dwudrzwiowe nadwozie mieściło cztery osoby. We wnętrzu, nawet na okres, kiedy rozpoczęła się produkcja tego Fiata, było niezwykle ciasno i pasażerowie nie mogli liczyć na żaden komfort. Fotele były małe (choć całkiem wygodne), a ilość miejsca nad głowami i na nogi znikoma. Pasażerowie narzekali na niezbyt dobrą wentylację kabiny oraz słabe ogrzewanie, ale do zalet tego samochodu zaliczali doskonałą widoczność w każdym kierunku oraz możliwość zaparkowania niemal w każdym miejscu.</li>
 <br>
 <li>Choć auto często wykorzystywano do dłuższych podróży, nie było ono stworzone do tego celu. Miało mały bagażnik umieszczony z przodu, w którym dodatkowo znajdowało się koło zapasowe.</li>
@@ -32,33 +31,27 @@
 <li>Niewielkie motory sprawiały, że Fiat 126p - choć lekki - był powolny i ospały. Według różnych danych samochód potrzebował od 30 do 50 s na rozpędzeni się do 100 km/h (dane katalogowe z 1991 roku mówią o 50 s) i osiągał prędkość 120 km/h (są osoby, które twierdzą, że rozpędziły Malucha do większej prędkości). Małe silniki, choć awaryjne, były tanie w eksploatacji i naprawie. Części do tych jednostek napędowych wytwarzało wiele firm, a koszt ich zakupu był niski. Do tego samochód ten potrafił naprawić każdy mechanik.
 </li>
 <br>
-	<li>Pod koniec produkcji Fiata 126p, w 1997 roku, oficjalnie nadano mu nazwę Maluch, którą od wielu lat stosowali nabywcy tego samochodu. Gdy w 1991 roku do produkcji weszło Cinquecento, wieszczono rychły koniec Fiata 126p. Jednak kolejne lata pokazały, że samochód ten jest chętnie nabywany, mimo że są od niego auta nowocześniejsze. Wytwarzanie Fiata 126p zakończono dopiero w roku 2000.</li>
-	<br> 
+<li>Pod koniec produkcji Fiata 126p, w 1997 roku, oficjalnie nadano mu nazwę Maluch, którą od wielu lat stosowali nabywcy tego samochodu. Gdy w 1991 roku do produkcji weszło Cinquecento, wieszczono rychły koniec Fiata 126p. Jednak kolejne lata pokazały, że samochód ten jest chętnie nabywany, mimo że są od niego auta nowocześniejsze. Wytwarzanie Fiata 126p zakończono dopiero w roku 2000.</li>
+<br> 
 	
-	<li>W Polsce jest organizowane dużo zlotów fanów polskiego malucha.</li>
+<li>W Polsce jest organizowane dużo zlotów fanów polskiego malucha.</li>
 	
 	
-	
-	<center>
+<center>
 <img src="1.jpg" height="340" width="510" />
 <span style="color: red"><h3>ZLOT</h3></span>
 </center>
 	
 	
 	
+PS. Na zdjeciach Maluch mojego taty :)
 	
-	
-	
-	
-	
-	
-	
-	PS. Na zdjeciach Maluch mojego taty :)
-	
-	</ol>
-	</ol>
+</ol>
+</ol>
 
 </center>
 </body>
 </html>
+	
+
 	
